@@ -1,4 +1,5 @@
 Rosso
 Verde
+Blu
 Giallo
 Azzurro
