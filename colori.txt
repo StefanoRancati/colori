@@ -1,2 +1,4 @@
 Rosso
 Verde
+Giallo
+Azzurro
