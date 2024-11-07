@@ -4,3 +4,4 @@ Blu
 Giallo
 Azzurro
 nero
+Bianco
