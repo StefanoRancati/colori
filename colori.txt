@@ -5,3 +5,4 @@ Giallo
 Azzurro
 nero
 arancione
+Bianco
