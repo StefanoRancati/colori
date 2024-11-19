@@ -5,5 +5,3 @@ Giallo
 Azzurro
 nero
 Bianco
-
-Ciao mondo ciao
